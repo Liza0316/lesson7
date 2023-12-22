@@ -1,0 +1,172 @@
+body{
+    width: 1920px;
+    height: 2464px;
+    margin: 0;
+    background-color: #F9F9F9;
+}
+header{
+    justify-content: space-between;
+    display: flex;
+}
+
+.Homepage{
+    background-color: #EEEFF1;
+    height: 700px; 
+}
+
+.tittle{
+    list-style: none;
+    text-decoration: none;
+    display:flex;
+    gap: 42px;
+    margin-left: 400px;
+    margin-top: 79px;
+    margin-bottom: 0;
+font-family: Roboto;
+font-weight: 400; 
+letter-spacing: 1.6px;
+text-transform: uppercase;
+}
+
+a { 
+    text-decoration: none; 
+    color: #000;
+   } 
+
+.paragraph{
+    margin-top: 0;
+    margin-bottom: 65px;
+    color: #727272;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+
+.design{
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.layout{
+    color: #000;
+font-family: Roboto;
+font-size: 48px;
+font-weight: 500;
+margin-bottom: 60px;
+margin-top: 151px;
+}
+
+.btn{
+    min-width: 225px;
+    min-height: 65px;
+    cursor: pointer;
+    background: #34547A;
+    color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 1.6px;
+}
+
+.about-me{
+    width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+    gap: 50px;
+}
+
+.two{
+    width: 540px;
+    text-align: center;
+    padding-left: 270px;
+    margin-bottom: 100px;
+}
+
+.me{
+    margin-top: 112px;
+    margin-bottom: 50px;
+}
+
+.icons{
+    height: 250px;
+    background-color: #34547A;
+ 
+}
+
+img{
+    float: left;
+  max-width: 50px;
+  max-height: 50px;
+  padding-right: 20px;
+}
+
+.text{
+    float: left;
+    width: 190px;
+   margin-top: 100px;
+}
+
+.one{
+    margin-left: 409px;
+}
+
+.projects{
+    color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+}
+
+h3{
+    margin-top: 3px;
+    margin-bottom: 10px;
+    color: #FFF;
+font-family: Roboto;
+font-size: 21px;
+font-weight: 500;
+}
+
+p{
+    margin-top: 0;
+}
+
+.work{
+    height: 1004px;
+    background-color:  #EEEFF1;
+    margin: 0 auto;
+    text-align: center;
+    gap: 50px;
+}
+
+.three{
+    width: 540px;
+    text-align: center;
+    padding-left: 700px;
+    margin-bottom: 100px;
+}
+
+.how{
+    margin-top: 0;
+    padding-top: 100px;
+}
+
+ footer{
+    background-color: #34547A;
+    height: 151px; 
+ }
+
+ .privace{
+    color: #FFF;
+font-family: Roboto;
+font-size: 13px;
+font-weight: 400; 
+margin-left: 406px;
+ }
+
+ .john{
+    padding-top: 50px;
+    margin-left: 406px;
+ }
+ 
